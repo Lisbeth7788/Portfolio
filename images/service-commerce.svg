@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Boutique en ligne">
+  <rect width="640" height="360" fill="#ff6846"/>
+  <rect x="74" y="48" width="492" height="264" rx="14" fill="#f7f8f3"/>
+  <path d="M74 104h492" stroke="#111917" stroke-width="5"/>
+  <circle cx="515" cy="77" r="13" fill="#d8ff57" stroke="#111917" stroke-width="4"/>
+  <rect x="110" y="137" width="124" height="133" rx="8" fill="#cbd8ca"/>
+  <rect x="258" y="137" width="124" height="133" rx="8" fill="#d8ff57"/>
+  <rect x="406" y="137" width="124" height="133" rx="8" fill="#111917"/>
+  <path d="M148 223c23-52 39 0 63-48M294 230c26-42 42-22 61-70" fill="none" stroke="#216653" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="468" cy="190" r="35" fill="#ff6846"/>
+</svg>

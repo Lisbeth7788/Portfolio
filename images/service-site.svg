@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Illustration d'une interface web">
+  <rect width="640" height="360" fill="#d8ff57"/>
+  <circle cx="540" cy="50" r="110" fill="#a8ddb0"/>
+  <rect x="76" y="56" width="488" height="270" rx="10" fill="#f7f8f3" stroke="#111917" stroke-width="5"/>
+  <path d="M76 100h488" stroke="#111917" stroke-width="5"/>
+  <circle cx="105" cy="78" r="6" fill="#ff6846"/><circle cx="126" cy="78" r="6" fill="#216653"/><circle cx="147" cy="78" r="6" fill="#111917"/>
+  <rect x="108" y="134" width="190" height="20" rx="10" fill="#111917"/>
+  <rect x="108" y="172" width="265" height="9" rx="4" fill="#a8b4a9"/>
+  <rect x="108" y="193" width="220" height="9" rx="4" fill="#a8b4a9"/>
+  <rect x="108" y="231" width="120" height="40" rx="3" fill="#216653"/>
+  <rect x="415" y="126" width="112" height="150" rx="55" fill="#ff6846"/>
+</svg>

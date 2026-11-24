@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Graphique de visibilité en ligne">
+  <rect width="640" height="360" fill="#d8ff57"/>
+  <path d="M72 292H568M72 70v222" stroke="#111917" stroke-width="5"/>
+  <path d="m92 260 94-55 78 20 95-93 82 25 106-98" fill="none" stroke="#216653" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m520 59 38-8-8 38" fill="none" stroke="#111917" stroke-width="10"/>
+  <circle cx="186" cy="205" r="16" fill="#ff6846" stroke="#111917" stroke-width="5"/><circle cx="359" cy="132" r="16" fill="#ff6846" stroke="#111917" stroke-width="5"/>
+  <rect x="96" y="80" width="132" height="48" rx="24" fill="#f7f8f3"/><text x="162" y="111" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#111917">+ SEO</text>
+</svg>

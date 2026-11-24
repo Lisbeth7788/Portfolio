@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Tableau de bord d'outil métier">
+  <rect width="640" height="360" fill="#c7d9dc"/>
+  <rect x="55" y="42" width="530" height="276" rx="14" fill="#111917"/>
+  <rect x="76" y="63" width="116" height="234" rx="7" fill="#263b36"/>
+  <rect x="98" y="90" width="72" height="10" rx="5" fill="#d8ff57"/><rect x="98" y="122" width="52" height="8" rx="4" fill="#7c948d"/><rect x="98" y="151" width="63" height="8" rx="4" fill="#7c948d"/>
+  <rect x="214" y="63" width="154" height="102" rx="7" fill="#f7f8f3"/><rect x="386" y="63" width="178" height="102" rx="7" fill="#d8ff57"/>
+  <path d="m239 135 34-28 27 15 42-39" fill="none" stroke="#216653" stroke-width="9"/>
+  <rect x="214" y="185" width="350" height="112" rx="7" fill="#f7f8f3"/>
+  <path d="M239 269V219M283 269v-29M327 269v-64M371 269v-45M415 269v-78M459 269v-53M503 269v-88M547 269v-62" stroke="#ff6846" stroke-width="14"/>
+</svg>

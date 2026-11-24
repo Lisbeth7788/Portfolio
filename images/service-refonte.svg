@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Transformation d'une interface">
+  <rect width="640" height="360" fill="#e7dfd4"/>
+  <rect x="56" y="76" width="220" height="210" rx="12" fill="#a9aaa4" opacity=".7"/>
+  <path d="M84 116h160M84 144h112M84 214h160" stroke="#f7f8f3" stroke-width="14" stroke-linecap="round"/>
+  <path d="M294 180h60" stroke="#216653" stroke-width="8"/><path d="m337 160 28 20-28 20" fill="none" stroke="#216653" stroke-width="8"/>
+  <rect x="370" y="42" width="220" height="276" rx="14" fill="#111917"/>
+  <rect x="393" y="65" width="174" height="230" rx="8" fill="#d8ff57"/>
+  <path d="M415 105h130M415 133h88" stroke="#111917" stroke-width="12" stroke-linecap="round"/>
+  <rect x="415" y="175" width="62" height="83" rx="4" fill="#216653"/><rect x="490" y="175" width="55" height="83" rx="4" fill="#ff6846"/>
+</svg>
