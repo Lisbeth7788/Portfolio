@@ -108,8 +108,8 @@ ul { margin: 0; }
 .project-link:hover .project-open, .project-link:focus-visible .project-open { transform: rotate(45deg); }
 .project-highlights { display: grid; gap: .45rem; margin: 1.3rem 0; padding: 0; color: var(--ink); font-size: .83rem; list-style: none; }
 .project-highlights li::before { margin-right: .6rem; color: var(--coral); content: "—"; }
-.technologies { display: flex; flex-wrap: wrap; gap: .45rem; padding: 1rem 0 0; border-top: 1px solid var(--line); list-style: none; }
-.technologies li { padding: .35rem .6rem; border-radius: 999px; background: #e7efe9; color: var(--green-dark); font-family: var(--mono); font-size: .63rem; }
+.project-benefits { display: flex; flex-wrap: wrap; gap: .45rem; padding: 1rem 0 0; border-top: 1px solid var(--line); list-style: none; }
+.project-benefits li { padding: .35rem .6rem; border-radius: 999px; background: #e7efe9; color: var(--green-dark); font-family: var(--mono); font-size: .63rem; }
 .text-link { display: inline-flex; margin-top: 1.5rem; gap: 1.2rem; border-bottom: 1px solid var(--green); color: var(--green-dark); font-size: .82rem; font-weight: 800; text-decoration: none; }
 
 .skills-section { background: var(--green-dark); color: var(--white); }
