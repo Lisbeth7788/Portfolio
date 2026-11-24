@@ -106,3 +106,11 @@ contactForm?.addEventListener('submit', (event) => {
 });
 
 document.querySelector('#annee').textContent = new Date().getFullYear();
+
+if (window.location.hash === '#formulaire-contact') {
+  window.requestAnimationFrame(() => {
+    window.requestAnimationFrame(() => {
+      document.querySelector('#formulaire-contact')?.scrollIntoView({ block: 'start' });
+    });
+  });
+}
